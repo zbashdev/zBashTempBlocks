@@ -13,4 +13,4 @@ https://github.com/zbashdev/zBashTempBlocks/releases
 
 www.zbash.com.tr
 
-discord.gg/PMy9szcsbx
+https://discord.gg/PMy9szcsbx
